@@ -31,3 +31,4 @@ com.iflytek.inputmethod.miui
 com.xiaomi.aiasst.service
 com.xiaomi.mibrain.speech
 com.sohu.inputmethod.sogouoem
+com.mipay.wallet
