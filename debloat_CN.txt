@@ -17,7 +17,6 @@ com.iflytek.inputmethod.miui
 com.baidu.input_mi
 com.miui.newhome
 com.xiaomi.payment
-com.miui.newmidrive
 com.mi.live.assistant
 com.miui.smarttravel
 com.unionpay.tsmservice.mi
