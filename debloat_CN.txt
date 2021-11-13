@@ -32,3 +32,4 @@ com.xiaomi.mibrain.speech
 com.sohu.inputmethod.sogouoem
 com.mipay.wallet
 com.changba.xiaomi
+com.miui.powerkeeper.overlay
