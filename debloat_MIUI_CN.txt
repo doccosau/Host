@@ -21,11 +21,9 @@ com.mi.live.assistant
 com.miui.smarttravel
 com.unionpay.tsmservice.mi
 com.android.browser
-com.miui.newhome
 com.miui.smarttravel
 com.miu.service
 com.mi.liveassistant
-com.baidu.input_mi
 com.iflytek.inputmethod.miui
 com.xiaomi.aiasst.service
 com.xiaomi.mibrain.speech
@@ -33,3 +31,7 @@ com.sohu.inputmethod.sogouoem
 com.mipay.wallet
 com.changba.xiaomi
 com.miui.powerkeeper.overlay
+com.xiaomi.aiasst.vision
+com.baidu.searchbox
+tv.danmaku.bili
+
