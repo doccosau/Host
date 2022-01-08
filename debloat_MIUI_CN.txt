@@ -36,4 +36,3 @@ com.baidu.searchbox
 tv.danmaku.bili
 com.duokan.reader
 com.sohu.inputmethod.sogou.xiaomi
-com.miui.systemAdSolution
