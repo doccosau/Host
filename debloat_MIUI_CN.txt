@@ -35,3 +35,4 @@ com.xiaomi.aiasst.vision
 com.baidu.searchbox
 tv.danmaku.bili
 com.duokan.reader
+com.sohu.inputmethod.sogou.xiaomi
