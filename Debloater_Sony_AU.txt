@@ -1,47 +1,63 @@
-com.google.android.apps.photos
-com.kddi.android.checker_android
-com.kddi.android.auhomelauncher
-com.kddi.disasterapp
-com.kddi.android.auinitialsetting
-com.kddi.market
-com.kddi.android.au_wifi_connect2
-com.kddi.android.kpop
-com.android.chrome
-com.kddi.android.antijaywalk
-com.kddi.android.ausharelink
-com.sonyericsson.starupflagservice
-com.sonymobile.susrescheck
-com.google.android.apps.tachyon
-com.facebook.system
-com.facebook.appmanager
-com.facebook.services
-com.google.android.music
-com.google.android.videos
-com.sonymobile.pobox.skin.gummi
-com.kddi.cs.app001
-com.fedicanetworks.mfm.main
-com.felicanetworks.mfs
-com.felicanetworks.mfw.a.boot
-com.kddi.selfcare.client
-com.google.android.youtube
-jp.netstar.familysmile
-com.kddi.android.btdun
-jp.sony.spot.sp
-com.kddi.android.mamoru
-com.somc.sov37.onlinemanual
-com.kddi.android.repairreceipt
-com.amazon.mShop.android.shopping
-jp.auone.wallet
-jp.wowma.app
-com.kddi.android.au_setting_menu
-com.kddi.android.auemail
-com.kddi.android.smartpass
-com.sonymobile.pobox
-com.sonyericsson.textinput.chinese
-com.trendmicro.tmmssuite.oemkddi.jp
-com.kddi.pass.launcher
-com.kddi.android.newspass
-com.tencent.ngjp
-com.somc.sov40.onlinemanual
-com.tobila.tobilaphone.mobile.android.au
-jp.co.optim.oru
+adb shell  pm uninstall -k --user 0 com.google.android.apps.photos
+adb shell  pm uninstall -k --user 0 com.kddi.android.checker_android
+adb shell  pm uninstall -k --user 0 com.kddi.android.auhomelauncher
+adb shell  pm uninstall -k --user 0 com.kddi.disasterapp
+adb shell  pm uninstall -k --user 0 com.kddi.android.auinitialsetting
+adb shell  pm uninstall -k --user 0 com.kddi.market
+adb shell  pm uninstall -k --user 0 com.kddi.android.au_wifi_connect2
+adb shell  pm uninstall -k --user 0 com.kddi.android.kpop
+adb shell  pm uninstall -k --user 0 com.android.chrome
+adb shell  pm uninstall -k --user 0 com.kddi.android.antijaywalk
+adb shell  pm uninstall -k --user 0 com.kddi.android.ausharelink
+adb shell  pm uninstall -k --user 0 com.sonyericsson.starupflagservice
+adb shell  pm uninstall -k --user 0 com.sonymobile.susrescheck
+adb shell  pm uninstall -k --user 0 com.google.android.apps.tachyon
+adb shell  pm uninstall -k --user 0 com.facebook.system
+adb shell  pm uninstall -k --user 0 com.facebook.appmanager
+adb shell  pm uninstall -k --user 0 com.facebook.services
+adb shell  pm uninstall -k --user 0 com.google.android.music
+adb shell  pm uninstall -k --user 0 com.google.android.videos
+adb shell  pm uninstall -k --user 0 com.sonymobile.pobox.skin.gummi
+adb shell  pm uninstall -k --user 0 com.kddi.cs.app001
+adb shell  pm uninstall -k --user 0 com.fedicanetworks.mfm.main
+adb shell  pm uninstall -k --user 0 com.felicanetworks.mfs
+adb shell  pm uninstall -k --user 0 com.felicanetworks.mfw.a.boot
+adb shell  pm uninstall -k --user 0 com.kddi.selfcare.client
+adb shell  pm uninstall -k --user 0 com.google.android.youtube
+adb shell  pm uninstall -k --user 0 jp.netstar.familysmile
+adb shell  pm uninstall -k --user 0 com.kddi.android.btdun
+adb shell  pm uninstall -k --user 0 jp.sony.spot.sp
+adb shell  pm uninstall -k --user 0 com.kddi.android.mamoru
+adb shell  pm uninstall -k --user 0 com.somc.sov37.onlinemanual
+adb shell  pm uninstall -k --user 0 com.kddi.android.repairreceipt
+adb shell  pm uninstall -k --user 0 com.amazon.mShop.android.shopping
+adb shell  pm uninstall -k --user 0 jp.auone.wallet
+adb shell  pm uninstall -k --user 0 jp.wowma.app
+adb shell  pm uninstall -k --user 0 com.kddi.android.au_setting_menu
+adb shell  pm uninstall -k --user 0 com.kddi.android.auemail
+adb shell  pm uninstall -k --user 0 com.kddi.android.smartpass
+adb shell  pm uninstall -k --user 0 com.sonymobile.pobox
+adb shell  pm uninstall -k --user 0 com.sonyericsson.textinput.chinese
+adb shell  pm uninstall -k --user 0 com.trendmicro.tmmssuite.oemkddi.jp
+adb shell  pm uninstall -k --user 0 com.kddi.pass.launcher
+adb shell  pm uninstall -k --user 0 com.kddi.android.newspass
+adb shell  pm uninstall -k --user 0 com.tencent.ngjp
+adb shell  pm uninstall -k --user 0 com.somc.sov40.onlinemanual
+adb shell  pm uninstall -k --user 0 com.tobila.tobilaphone.mobile.android.au
+adb shell  pm uninstall -k --user 0 jp.co.optim.oru
+adb shell  pm uninstall -k --user 0 com.kddi.android.klop
+adb shell  pm uninstall -k --user 0 com.kddi.android.cmail
+adb shell  pm uninstall -k --user 0 com.sonymobile.home.res.overlay_305
+adb shell  pm uninstall -k --user 0 com.felicanetworks.mfm.main
+adb shell  pm uninstall -k --user 0 com.felicanetworks.mfw.a.nain
+adb shell  pm uninstall -k --user 0 android.enterprise.overlay.kddi
+adb shell  pm uninstall -k --user 0 android.product.res.overlay.kddi
+adb shell  pm uninstall -k --user 0 android.incallui.product.res.overlay.kddi
+adb shell  pm uninstall -k --user 0 com.android.incallui.product.res.overlay.kddi
+adb shell  pm uninstall -k --user 0 com.android.phone.product.res.overlay.kddi
+adb shell  pm uninstall -k --user 0 com.android.server.telecom.product.res.overlay.kddi
+adb shell  pm uninstall -k --user 0 com.android.settings.product.res.overlay.kddi
+adb shell  pm uninstall -k --user 0 com.android.systemui.product.res.overlay.kddi
+adb shell  pm uninstall -k --user 0 com.kddi.extcontroldevice
+adb shell  pm uninstall -k --user 0 com.sonyuericsson.android.servicemenu.product.res.overlayoverlay.kddi
+adb shell  pm uninstall -k --user 0 com.sonymobile.kddi.settings
